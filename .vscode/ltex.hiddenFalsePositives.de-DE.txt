@@ -1,0 +1,2 @@
+{"rule":"GERMAN_WORD_REPEAT_RULE","sentence":"^\\QBewertung Note Notenstufe in Worten Punkte Punkte schriftliche Arbeit x 3 Abschlusspräsentation x 1 Summe: 6-6 Gesamtleistung = Summe : 2 (gerundet) 6-6\\E$"}
+{"rule":"DE_CASE","sentence":"^\\QVerfasser/in: Severin Blank Kursleiter/in: Herr Vater\\E$"}
