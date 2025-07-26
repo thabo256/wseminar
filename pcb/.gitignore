@@ -1,0 +1,5 @@
+*-backups/
+fp-info-cache
+~*.lck
+place_footprints.ini
+place_footprints.log
