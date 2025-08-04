@@ -2875,22 +2875,22 @@
 	)
 	(global_label "COL-1r"
 		(shape input)
-		(at 194.31 73.66 0)
+		(at 179.07 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "34ee01f5-e80e-4eb7-bc28-aacde553d326")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.4919 73.66 0)
+			(at 179.07 78.7619 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2941,29 +2941,29 @@
 	)
 	(global_label "ROW-6r"
 		(shape input)
-		(at 194.31 60.96 0)
+		(at 191.77 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "4b45ad68-fe69-4fef-b4b5-5b2e0e0afd50")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.9152 60.96 0)
+			(at 191.77 79.1852 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "ROW-5"
 		(shape input)
-		(at 156.21 58.42 180)
+		(at 151.13 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2973,7 +2973,7 @@
 		)
 		(uuid "4f88abb8-093d-42a4-8312-b73259923153")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.391 58.42 0)
+			(at 151.13 78.399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2985,7 +2985,7 @@
 	)
 	(global_label "ROW-4"
 		(shape input)
-		(at 156.21 63.5 180)
+		(at 156.21 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2995,7 +2995,7 @@
 		)
 		(uuid "5001416f-3f57-40b7-ae5a-d45cecdfa0b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.391 63.5 0)
+			(at 156.21 78.399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3029,29 +3029,29 @@
 	)
 	(global_label "ROW-4r"
 		(shape input)
-		(at 194.31 66.04 0)
+		(at 186.69 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "584e319d-f968-4ed3-abe5-6eb9493be40d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.9152 66.04 0)
+			(at 186.69 79.1852 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "ROW-7"
 		(shape input)
-		(at 156.21 73.66 180)
+		(at 166.37 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3061,7 +3061,7 @@
 		)
 		(uuid "58e46972-d044-43db-8f48-1ef60a486ee0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.391 73.66 0)
+			(at 166.37 78.399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3161,7 +3161,7 @@
 	)
 	(global_label "COL-2"
 		(shape input)
-		(at 156.21 71.12 180)
+		(at 163.83 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3171,7 +3171,7 @@
 		)
 		(uuid "6ab4d956-c9d7-4e1e-9d29-ddc9544f27f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.8143 71.12 0)
+			(at 163.83 77.9757 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3183,22 +3183,22 @@
 	)
 	(global_label "ROW-5r"
 		(shape input)
-		(at 194.31 71.12 0)
+		(at 181.61 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6d7560ce-801e-4707-a9e1-6adfe1a87bca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.9152 71.12 0)
+			(at 181.61 79.1852 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3315,7 +3315,7 @@
 	)
 	(global_label "ROW-6"
 		(shape input)
-		(at 156.21 68.58 180)
+		(at 161.29 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3325,7 +3325,7 @@
 		)
 		(uuid "92c290f0-e56f-43ee-a30c-831d85985108")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.391 68.58 0)
+			(at 161.29 78.399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3381,44 +3381,44 @@
 	)
 	(global_label "ROW-7r"
 		(shape input)
-		(at 194.31 55.88 0)
+		(at 196.85 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "a26c8851-cf31-43a2-9ca3-03b748a180fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.9152 55.88 0)
+			(at 196.85 79.1852 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "COL-3r"
 		(shape input)
-		(at 194.31 63.5 0)
+		(at 189.23 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "a27a7ef0-7550-4c3b-ac30-d2a3900116e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.4919 63.5 0)
+			(at 189.23 78.7619 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3513,51 +3513,51 @@
 	)
 	(global_label "COL-0r"
 		(shape input)
-		(at 194.31 68.58 0)
+		(at 184.15 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "b972276b-7e91-42b9-97d5-200defd6263a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.4919 68.58 0)
+			(at 184.15 78.7619 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "COL-2r"
 		(shape input)
-		(at 194.31 58.42 0)
+		(at 194.31 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "bd3e8173-256e-49b1-ac16-f0b85a2771b9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 204.4919 58.42 0)
+			(at 194.31 78.7619 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "COL-3"
 		(shape input)
-		(at 156.21 66.04 180)
+		(at 158.75 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3567,7 +3567,7 @@
 		)
 		(uuid "bdd3006f-77bb-481f-8df8-f8de3eed702d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.8143 66.04 0)
+			(at 158.75 77.9757 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3579,7 +3579,7 @@
 	)
 	(global_label "COL-0"
 		(shape input)
-		(at 156.21 60.96 180)
+		(at 153.67 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3589,7 +3589,7 @@
 		)
 		(uuid "ce20e421-f639-42ae-a931-7f0b6a0c5b9b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.8143 60.96 0)
+			(at 153.67 77.9757 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3711,7 +3711,7 @@
 	)
 	(global_label "COL-1"
 		(shape input)
-		(at 156.21 55.88 180)
+		(at 148.59 68.58 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3721,7 +3721,7 @@
 		)
 		(uuid "fe4828e6-54f9-488c-be61-c2d0c850a737")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.8143 55.88 0)
+			(at 148.59 77.9757 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3733,7 +3733,7 @@
 	)
 	(symbol
 		(lib_id "Connector:RJ45")
-		(at 184.15 66.04 0)
+		(at 186.69 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3742,7 +3742,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a496322-310c-4e11-b0f4-106600b359da")
 		(property "Reference" "J2"
-			(at 184.15 48.26 0)
+			(at 204.47 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3750,7 +3750,7 @@
 			)
 		)
 		(property "Value" "RJ45"
-			(at 184.15 50.8 0)
+			(at 201.93 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3758,7 +3758,7 @@
 			)
 		)
 		(property "Footprint" "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
-			(at 184.15 65.405 90)
+			(at 187.325 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3767,7 +3767,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 65.405 90)
+			(at 187.325 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3776,7 +3776,7 @@
 			)
 		)
 		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
-			(at 184.15 66.04 0)
+			(at 186.69 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8092,7 +8092,7 @@
 	)
 	(symbol
 		(lib_id "Connector:RJ45")
-		(at 166.37 63.5 180)
+		(at 156.21 58.42 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8101,7 +8101,7 @@
 		(fields_autoplaced yes)
 		(uuid "c7a1a011-4f89-4176-9650-c75bf823f796")
 		(property "Reference" "J1"
-			(at 175.26 63.4999 0)
+			(at 156.2099 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8110,7 +8110,7 @@
 			)
 		)
 		(property "Value" "RJ45"
-			(at 175.26 66.0399 0)
+			(at 158.7499 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8119,7 +8119,7 @@
 			)
 		)
 		(property "Footprint" "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
-			(at 166.37 64.135 90)
+			(at 156.845 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8128,7 +8128,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 166.37 64.135 90)
+			(at 156.845 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8137,7 +8137,7 @@
 			)
 		)
 		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
-			(at 166.37 63.5 0)
+			(at 156.21 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
