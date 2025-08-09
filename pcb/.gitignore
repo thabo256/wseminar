@@ -1,6 +1,7 @@
 gerbers/
 *-backups/
 fp-info-cache
+_autosave-*
 ~*.lck
 place_footprints.ini
 place_footprints.log
